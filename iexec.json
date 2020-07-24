@@ -1,0 +1,26 @@
+{
+  "description": "Web scraping application that allows navigation to multiple pages and saving contents to multiple files. Uses Puppeteer to run in a headless Chrome instance.",
+  "license": "MIT",
+  "author": "?",
+  "social": {
+    "website": "?",
+    "github": "?"
+  },
+  "logo": "logo.png",
+  "buyConf": {
+    "params": {
+      "iexec_args": ""
+    },
+    "tag": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "trust": "0",
+    "callback": "0x0000000000000000000000000000000000000000"
+  },
+  "app": {
+    "owner": "0xA66BbcBA2209F5527f4eD73bfE4670Da3E554254",
+    "name": "ringleader",
+    "type": "DOCKER",
+    "multiaddr": "docker.io/hallaby/ringleader:1.0.0",
+    "checksum": "0x366f4f064379fa22474f11d4121680101f0edf05294eaad00afade828589c2b1",
+    "mrenclave": ""
+  }
+}
