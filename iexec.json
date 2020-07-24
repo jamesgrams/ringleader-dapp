@@ -16,7 +16,7 @@
     "callback": "0x0000000000000000000000000000000000000000"
   },
   "app": {
-    "owner": "0xA66BbcBA2209F5527f4eD73bfE4670Da3E554254",
+    "owner": "0xD3785Eb3e65f4f06d4599497EE61EC4222C75816",
     "name": "ringleader",
     "type": "DOCKER",
     "multiaddr": "docker.io/hallaby/ringleader:1.0.0",
