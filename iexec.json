@@ -20,7 +20,7 @@
     "name": "ringleader",
     "type": "DOCKER",
     "multiaddr": "docker.io/hallaby/ringleader:1.0.0",
-    "checksum": "0x366f4f064379fa22474f11d4121680101f0edf05294eaad00afade828589c2b1",
+    "checksum": "0x77b3c729617f39a711b7462cbd87151cc31e8213d72070ea09ad361a1ee49097",
     "mrenclave": ""
   }
 }
